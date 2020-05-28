@@ -1,0 +1,12 @@
+{
+  "form-text": {
+    "name": "Name",
+    "familyName": "Family Name",
+    "age": "Age",
+    "countryOfOrigin": "Country of Origin",
+    "address": "Address",
+    "hired": "Hired",
+    "email": "Email Address"
+  },
+  "app-title": "Applicant Form"
+}
